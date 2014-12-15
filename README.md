@@ -14,7 +14,7 @@ Quickstart
 * Usermame: vagrant
 * Password: vagrant
 
-* Create a topic:  ```/vagrant/scripts/create_topic.sh <topic name>
-* Producer mode: ```/vagrant/scripts/producer.sh <topic name>
-* Consumer mode: ```/vagrant/scripts/consumer.sh <topic name>
+* Create a topic:  ```/vagrant/scripts/create_topic.sh <topic name>```
+* Producer mode: ```/vagrant/scripts/producer.sh <topic name>```
+* Consumer mode: ```/vagrant/scripts/consumer.sh <topic name>```
 

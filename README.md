@@ -7,7 +7,7 @@ Setup
 -------------------------
 To start it up, just git clone this repo and execute ```vagrant up```.
 
-Kafka is installed on ```/vagranta/src/kafka_2.9.2-0.8.1.1```
+Kafka is installed on ```/vagrant/src/kafka_2.9.2-0.8.1.1```
 
 Quickstart
 -------------------------
